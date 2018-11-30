@@ -1,10 +1,10 @@
 # ML-code
 
 ## Option 2: Choose what you want from here: 
-## Chapter 2 (Preliminaries):
+# Chapter 2 (Preliminaries):
 ## Plots a 1D Gaussian (Fig 2.14)
 ## Plot some 2D Gaussians
-## Chapter 3 (Neurons, Neural Networks, and Linear Discriminants):
+# Chapter 3 (Neurons, Neural Networks, and Linear Discriminants):
 ## The Perceptron
 ## The Linear Regressor
 ## Another Perceptron (for use with logic.py)
@@ -13,18 +13,18 @@
 ## Demonstration of Perceptron with Pima Indian dataset
 ## Demonstration of Linear Regressor with auto-mpg dataset
 ## Demonstration of Perceptron with the MNIST dataset
-## Chapter 4 (The Multi-Layer Perceptron):
+# Chapter 4 (The Multi-Layer Perceptron):
 ## The Multi-Layer Perceptron
 ## Demonstration of the MLP on logic functions
 ## Demonstration of the MLP for classification on the Iris dataset
 ## Demonstration of the MLP for regression on data from a sine wave
 ## Demonstration of the MLP for time series on the Palmerston North Ozone dataset
 ## Demonstration of MLP with the MNIST dataset
-## Chapter 5 (Radial Basis Functions and Splines):
+# Chapter 5 (Radial Basis Functions and Splines):
 ## The Radial Basis Function
 ## Linear Least Squares Fitting
 ## Demonstration of the RBF on the Iris dataset
-## Chapter 6 (Dimensionality Reduction):
+# Chapter 6 (Dimensionality Reduction):
 ## Linear Discriminant Analysis
 ## Principal Components Analysis
 ## Factor Analysis
@@ -34,16 +34,16 @@
 ## Demonstration of PCA
 ## Demonstration of kernel PCA on a set of circular data
 ## Demonstration of the algorithms on the Iris dataset
-## Chapter 7 (Probabilistic Learning):
+# Chapter 7 (Probabilistic Learning):
 ## The Gaussian Mixture Model
 ## The k-Nearest Neighbour Algorithm
 ## The k-Nearest Neighbour Smoother
 ## The kd-Tree Algorithm
-## Chapter 8 (Support Vector Machines):
+# Chapter 8 (Support Vector Machines):
 ## The Support Vector Machine (needs cvxopt)
 ## Demonstration of the SVM for classification on the Iris dataset
 ## Demonstration of the SVM for the variant of XOR in Figs 8.7 and 8.8
-## Chapter 9 (Optimisation and Search):
+# Chapter 9 (Optimisation and Search):
 ## Steepest Descent
 ## Newton's method
 ## Levenberg-Marquarft
@@ -52,7 +52,7 @@
 ## Demonstration of the MLP algorithm trained using conjugate gradients on the Iris dataset
 ## Demonstration of Levenberg-Marquardt on a least-squares fitting problem
 ## Demonstration of four solution methods for the Travelling Salesman Problem
-## Chapter 10 (Evolutionary Learning):
+# Chapter 10 (Evolutionary Learning):
 ## The Genetic Algorithm
 ## A Runner for the GA
 ## Population-Based Incremental Learning
@@ -61,16 +61,16 @@
 ## The onemax fitness function
 ## Exhaustive search algorithm to solve the knapsack problem
 ## A greedy algorithm to solve the knapsack problem
-## Chapter 11 (Reinforcement Learning):
+# Chapter 11 (Reinforcement Learning):
 ## The SARSA algorithm
-## The TD(0) algorithm
+# The TD(0) algorithm
 ## Demonstration of the SARSA algorithm on the Cliff problem
 ## Demonstration of the TD(0) algorithm on the Cliff problem
-## Chapter 12 (Learning with Trees):
+# Chapter 12 (Learning with Trees):
 ## The decision tree
 ## Demonstration of the decision tree on the Party dataset
 ## The Party dataset
-## Chapter 13 (Decision by Committee: Ensemble Learning):
+# Chapter 13 (Decision by Committee: Ensemble Learning):
 ## The Boosting algorithm
 ## The Bagging algorithm
 ## A decision tree with weights
@@ -78,7 +78,7 @@
 ## Demonstration of bagging, stumping and random forests on the Party dataset
 ## Demonstration of bagging on the Car Safety dataset
 ## Demonstration of bagging and random forests on the mushroom dataset
-## Chapter 14 (Unsupervised Learning):
+# Chapter 14 (Unsupervised Learning):
 ## The k-Means Algorithm
 ## The k-Means Neural Network
 ## The Self-Organising Map
@@ -86,7 +86,7 @@
 ## Demonstration of k-Means and the SOM on the Iris dataset
 ## Demonstration of SOM and Perceptron together on the Iris dataset
 ## More demonstrations of the SOM
-## Chapter 15 (Markov Chain Monte Carlo Methods):
+# Chapter 15 (Markov Chain Monte Carlo Methods):
 ## The Linear Congruential Pseudo-Random Number Generator
 ## The Box-Muller method of constructing Gaussian-distributed pseudo-random numbers
 ## The Rejection Sampling Algorithm
@@ -94,7 +94,7 @@
 ## The Sampling-Importance-Resampling Algorithm
 ## The Metropolis-Hastings Algorithm
 ## The Gibbs Sampler
-## Chapter 16 (Graphical Models):
+# Chapter 16 (Graphical Models):
 ## The Gibbs Sampler for the Exam Panic dataset
 ## The Hidden Markov Model
 ## A simple 1D Kalman Filter
@@ -105,18 +105,18 @@
 ## The Markov Random Field for Image Denoising
 ## A demonstration of finding paths in graphs
 ## An image for denoising
-## Chapter 17 (Symmetric Weights and Deep Belief Networks):
+# Chapter 17 (Symmetric Weights and Deep Belief Networks):
 ## A Hopfield network
 ## The Restricted Boltzmann Machine
 ## The Deep Belief Network Algorithm
-## Chapter 18 (Gaussian Processes):
+# Chapter 18 (Gaussian Processes):
 ## The Gaussian Process for Regression Algorithm
 ## The Gaussian Process for Classification Algorithm
 ## Demo of the Gaussian Process for Classification
 ## Plots of the Weibull and Gaussian distributions (Fig 18.1)
 ## Plots of GP samples (Fig 18.2)
 ## Very simple data for the Gaussian Process Regression demo
-## Datasets
+# Datasets
 ## Many of the datasets used in the book are available from the UCI Machine Learning Repository 
 ## In particular, look for the Iris data the Pima Indian data, the car safety data, the auto-mpg data, the wine data, and the           mushroom data.
 
