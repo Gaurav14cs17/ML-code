@@ -1,6 +1,5 @@
 # ML-code
 
-
 ## Option 2: Choose what you want from here: 
 ## Chapter 2 (Preliminaries):
 ## Plots a 1D Gaussian (Fig 2.14)
@@ -120,9 +119,9 @@
 ## Datasets
 ## Many of the datasets used in the book are available from the UCI Machine Learning Repository. In particular, look for the Iris data, the Pima Indian data, the car safety data, the auto-mpg data, the wine data, and the mushroom data.#
 
-## Two of the most popular machine learning demonstration datasets are the MNIST set of zip code digits, which is available here, and ##the binary alpha digits dataset, which can be downloaded here. Finally, there are a couple of smaller datasets that are not available ##elsewhere, at least in their current form, and so should be downloaded from this website:
+## Two of the most popular machine learning demonstration datasets are the MNIST set of zip code digits, which is available here, and the binary alpha digits dataset, which can be downloaded here. Finally, there are a couple of smaller datasets that are not available elsewhere, at least in their current form, and so should be downloaded from this website:
 ## The Palmerston North Ozone dataset
 ## Training data for the prostate dataset
-## Test data for the prostate dataset (variables are log cancer volume, log prostate weight, age, lbph, svi, lcp, Gleason score, pgg45 ##and the last one is response lpsa)
+## Test data for the prostate dataset (variables are log cancer volume, log prostate weight, age, lbph, svi, lcp, Gleason score, pgg45 and the last one is response lpsa)
 ## The Ruapehu dataset (thanks to Mark Bebbington)
 ## Short version of the e. coli dataset#
