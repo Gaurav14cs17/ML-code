@@ -117,7 +117,8 @@
 ## Plots of GP samples (Fig 18.2)
 ## Very simple data for the Gaussian Process Regression demo
 ## Datasets
-## Many of the datasets used in the book are available from the UCI Machine Learning Repository. In particular, look for the Iris data, the Pima Indian data, the car safety data, the auto-mpg data, the wine data, and the mushroom data.#
+## Many of the datasets used in the book are available from the UCI Machine Learning Repository 
+## In particular, look for the Iris data the Pima Indian data, the car safety data, the auto-mpg data, the wine data, and the           mushroom data.
 
 ## Two of the most popular machine learning demonstration datasets are the MNIST set of zip code digits, which is available here, and the binary alpha digits dataset, which can be downloaded here. Finally, there are a couple of smaller datasets that are not available elsewhere, at least in their current form, and so should be downloaded from this website:
 ## The Palmerston North Ozone dataset
