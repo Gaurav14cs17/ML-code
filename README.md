@@ -28,20 +28,20 @@
 ## Linear Discriminant Analysis
 ## Principal Components Analysis
 ## Factor Analysis
-##Kernel Principal Components Analysis
-##Locally Linear Embedding
-##Isomap
-##Demonstration of PCA
-##Demonstration of kernel PCA on a set of circular data
-##Demonstration of the algorithms on the Iris dataset
-##Chapter 7 (Probabilistic Learning):
-##The Gaussian Mixture Model
-##The k-Nearest Neighbour Algorithm
-##The k-Nearest Neighbour Smoother
-##The kd-Tree Algorithm
-##Chapter 8 (Support Vector Machines):
-##The Support Vector Machine (needs cvxopt)
-##Demonstration of the SVM for classification on the Iris dataset
+## Kernel Principal Components Analysis
+## Locally Linear Embedding
+## Isomap
+## Demonstration of PCA
+## Demonstration of kernel PCA on a set of circular data
+## Demonstration of the algorithms on the Iris dataset
+## Chapter 7 (Probabilistic Learning):
+## The Gaussian Mixture Model
+## The k-Nearest Neighbour Algorithm
+## The k-Nearest Neighbour Smoother
+## The kd-Tree Algorithm
+## Chapter 8 (Support Vector Machines):
+## The Support Vector Machine (needs cvxopt)
+## Demonstration of the SVM for classification on the Iris dataset
 ## Demonstration of the SVM for the variant of XOR in Figs 8.7 and 8.8
 ## Chapter 9 (Optimisation and Search):
 ## Steepest Descent
@@ -70,20 +70,20 @@
 ## The decision tree
 ## Demonstration of the decision tree on the Party dataset
 ## The Party dataset
-##Chapter 13 (Decision by Committee: Ensemble Learning):
-##The Boosting algorithm
-##The Bagging algorithm
-##A decision tree with weights
-##The random forest algorithm
-##Demonstration of bagging, stumping and random forests on the Party dataset
-##Demonstration of bagging on the Car Safety dataset
-##Demonstration of bagging and random forests on the mushroom dataset
-##Chapter 14 (Unsupervised Learning):
-##The k-Means Algorithm
-##The k-Means Neural Network
-##The Self-Organising Map
-##A Simple 2D Demonstration of the SOM
-##Demonstration of k-Means and the SOM on the Iris dataset
+## Chapter 13 (Decision by Committee: Ensemble Learning):
+## The Boosting algorithm
+## The Bagging algorithm
+## A decision tree with weights
+## The random forest algorithm
+## Demonstration of bagging, stumping and random forests on the Party dataset
+## Demonstration of bagging on the Car Safety dataset
+## Demonstration of bagging and random forests on the mushroom dataset
+## Chapter 14 (Unsupervised Learning):
+## The k-Means Algorithm
+## The k-Means Neural Network
+## The Self-Organising Map
+## A Simple 2D Demonstration of the SOM
+## Demonstration of k-Means and the SOM on the Iris dataset
 ## Demonstration of SOM and Perceptron together on the Iris dataset
 ## More demonstrations of the SOM
 ## Chapter 15 (Markov Chain Monte Carlo Methods):
